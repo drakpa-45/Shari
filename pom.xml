@@ -435,11 +435,6 @@
             <artifactId>swagger-annotations</artifactId>
             <version>1.5.15</version>
         </dependency>
-        <dependency>
-            <groupId>org.wso2.client.G2C_CommonBusinessAPI</groupId>
-            <artifactId>G2C_CommonBusinessAPI</artifactId>
-            <version>1.0.0</version>
-        </dependency>
 
         <dependency>
             <groupId>javax.servlet</groupId>
