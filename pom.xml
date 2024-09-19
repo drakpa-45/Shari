@@ -19,11 +19,7 @@
             <version>1.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>jaxrpc</groupId>
-            <artifactId>jaxrpc</artifactId>
-            <version>1.0</version>
-        </dependency>
+
         <dependency>
             <groupId>commons-discovery</groupId>
             <artifactId>commons-discovery</artifactId>
